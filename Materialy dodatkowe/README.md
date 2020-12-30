@@ -34,6 +34,7 @@ Zachęcam do dodawania materiałów do listy (2p).
 - **[Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)**
 - **[Web scraping with BeautifulSoup and Requests](https://youtu.be/ng2o98k983k)**
 - **[16 Data Science project ideas to strengthen your portfolio](https://data-flair.training/blogs/data-science-project-ideas/)**
+- **[YouTube Channel with using SKLEARN for machine learning](https://www.youtube.com/channel/UCXCKeboc1BZ2cR8j1rkUrwA/playlists)**
 
 ## :chart_with_upwards_trend: Ekonometria
 - **[Quantitative Economics with Julia](https://julia.quantecon.org/)**
